@@ -1,0 +1,5 @@
+{
+  "name": "AE GPT",
+  "description": "AI-powered exam assistant that generates syllabus-accurate answers based on user context and mark requirements. Free Test Mode enabled.",
+  "requestFramePermissions": []
+}
